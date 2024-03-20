@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mii-1989/cd-weather/static/css/main.373b9267.css",
+    "main.js": "/mii-1989/cd-weather/static/js/main.2ed8dc17.js",
+    "index.html": "/mii-1989/cd-weather/index.html",
+    "main.373b9267.css.map": "/mii-1989/cd-weather/static/css/main.373b9267.css.map",
+    "main.2ed8dc17.js.map": "/mii-1989/cd-weather/static/js/main.2ed8dc17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.373b9267.css",
+    "static/js/main.2ed8dc17.js"
+  ]
+}
